@@ -1,4 +1,4 @@
-#Simple Price Grid 
+# Simple Price Grid 
 
 This is Front End Master Challenge 
 The grid system was used for layout 
